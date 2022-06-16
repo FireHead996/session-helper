@@ -2,6 +2,7 @@
     "name": "firehead996/session-helper",
     "description": "Small package for handling session in PHP",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mikolaj Panecki",
